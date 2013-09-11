@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[${1:dataSnapshot}.val();
+]]></content>
+    <tabTrigger>valfire</tabTrigger>
+    <scope>source.js</scope>
+    <description>JS value of snapshot</description>
+</snippet>

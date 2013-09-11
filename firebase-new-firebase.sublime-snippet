@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[var ${1:ref} = new Firebase('${0:url}');]]></content>
+    <tabTrigger>newfire</tabTrigger>
+    <scope>source.js</scope>
+    <description>New Firebase Ref</description>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[${1:ref}.auth(${2:authToken}, function(error, ${3:result}) {
+  if(error) {
+    ${4: /* handle error */}
+  } else {
+    ${0: /* do something */}
+  }
+});]]></content>
+    <tabTrigger>authfire</tabTrigger>
+    <scope>source.js</scope>
+    <description>Authenticate Client</description>
+</snippet>

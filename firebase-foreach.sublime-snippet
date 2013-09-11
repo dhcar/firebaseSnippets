@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:dataSnapshot}.forEach( ${0:childSnapshot} );]]></content>
+    <tabTrigger>forEachfire</tabTrigger>
+    <scope>source.js</scope>
+    <description>snapshot forEach child</description>
+</snippet>

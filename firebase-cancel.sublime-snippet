@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[${1:ref}.onDisconnect().cancel(${0:/* onComplete */});
+]]></content>
+    <tabTrigger>cancelfire</tabTrigger>
+    <scope>source.js</scope>
+    <description>cancel events</description>
+</snippet>

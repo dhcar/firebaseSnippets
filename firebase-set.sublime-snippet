@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[${1:ref}.set(${2:value}, ${0:/* onComplete */});
+]]></content>
+    <tabTrigger>setfire</tabTrigger>
+    <scope>source.js</scope>
+    <description>write at ref</description>
+</snippet>

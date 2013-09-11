@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[${1:ref}.on(${2: eventType}, ${3:function(dataSnapshot)}, ${4:/* cancelCallback */}, ${0:/* context */} );
+]]></content>
+    <tabTrigger>onfire</tabTrigger>
+    <scope>source.js</scope>
+    <description>read data</description>
+</snippet>

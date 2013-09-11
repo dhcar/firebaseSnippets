@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[${1:ref}.startAt(${2:/* start point */}).limit(${0:limitNumber});
+]]></content>
+    <tabTrigger>limitstartfire</tabTrigger>
+    <scope>source.js</scope>
+    <description>limit a ref</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[${1:ref}.setWithPriority(${2: value }, ${3: priority /* string or number */}, ${0: /* onComplete */});
+]]></content>
+    <tabTrigger>setWithfire</tabTrigger>
+    <scope>source.js</scope>
+    <description>write w/ priority</description>
+</snippet>

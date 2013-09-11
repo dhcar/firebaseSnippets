@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:dataRef}.child(${0:'childPath'});]]></content>
+    <tabTrigger>childfire</tabTrigger>
+    <scope>source.js</scope>
+    <description>Firebase ref of child</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:dataRef}.parent();]]></content>
+    <tabTrigger>parentfire</tabTrigger>
+    <scope>source.js</scope>
+    <description>Firebase ref of parent</description>
+</snippet>

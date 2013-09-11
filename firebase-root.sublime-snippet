@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:dataRef}.root();]]></content>
+    <tabTrigger>rootfire</tabTrigger>
+    <scope>source.js</scope>
+    <description>Root of firebase</description>
+</snippet>

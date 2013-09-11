@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[${1:ref}.off( ${2:/* eventType */}, ${3: /* dataSnapshot */}, ${0: /* context */} );
+]]></content>
+    <tabTrigger>offfire</tabTrigger>
+    <scope>source.js</scope>
+    <description>stop data read</description>
+</snippet>

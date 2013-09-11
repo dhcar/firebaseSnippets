@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${0:dataRef}.unauth();]]></content>
+    <tabTrigger>unauthfire</tabTrigger>
+    <scope>source.js</scope>
+    <description>Unauthenticate client</description>
+</snippet>

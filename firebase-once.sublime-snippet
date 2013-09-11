@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:ref}.once(${2: eventType}, function(${3:dataSnapshot}) { ${0: /* handle read data */} });]]></content>
+    <tabTrigger>oncefire</tabTrigger>
+    <scope>source.js</scope>
+    <description>firebase once</description>
+</snippet>

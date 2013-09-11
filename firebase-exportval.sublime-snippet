@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:dataSnapshot}.exportVal();]]></content>
+    <tabTrigger>exportValfire</tabTrigger>
+    <scope>source.js</scope>
+    <description>export snapshot</description>
+</snippet>

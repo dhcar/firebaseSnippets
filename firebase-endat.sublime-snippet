@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:ref}.endAt( ${2:/* priority */}, ${0:/* name */} );]]></content>
+    <tabTrigger>endAtfire</tabTrigger>
+    <scope>source.js</scope>
+    <description>ref w/ specific end</description>
+</snippet>

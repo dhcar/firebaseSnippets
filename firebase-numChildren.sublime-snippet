@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:dataSnapshot}.numChildren();]]></content>
+    <tabTrigger>numChildrenfire</tabTrigger>
+    <scope>source.js</scope>
+    <description>integer of children</description>
+</snippet>

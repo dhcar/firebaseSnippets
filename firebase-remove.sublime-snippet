@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:ref}.remove(${0:/* onComplete */});]]></content>
+    <tabTrigger>removefire</tabTrigger>
+    <scope>source.js</scope>
+    <description>remove at ref</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:dataSnapshot}.hasChild( ${0:childPath} );]]></content>
+    <tabTrigger>hasChildfire</tabTrigger>
+    <scope>source.js</scope>
+    <description>true if child</description>
+</snippet>
