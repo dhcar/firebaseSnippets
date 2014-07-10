@@ -1,7 +1,7 @@
 firebaseSnippets
 ================
 
-Sublime text 2 snippets for firebase javascript API
+Sublime text 2 & 3 snippets for firebase javascript API
 
 Install "Firebase Snippets" with Sublime Package Control, or download from here and unzip into Packages/Firebase Snippets.
 
