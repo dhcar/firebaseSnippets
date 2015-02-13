@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[limitToLast(${0:limitNumber});]]></content>
+    <tabTrigger>limittolastfire</tabTrigger>
+    <scope>source.js</scope>
+    <description>limit a ref</description>
+</snippet>
