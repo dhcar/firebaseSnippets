@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[${1:dataRef}.name();]]></content>
-    <tabTrigger>namefire</tabTrigger>
-    <scope>source.js</scope>
-    <description>Last token of location</description>
-</snippet>
