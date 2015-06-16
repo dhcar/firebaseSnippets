@@ -1,6 +1,6 @@
 <snippet>
-    <content><![CDATA[${1:ref}.startAt( ${2:/* priority */}, ${0:/* name */} );]]></content>
-    <tabTrigger>startAtfire</tabTrigger>
+    <content><![CDATA[startAt(${2:/* start point */})]]></content>
+    <tabTrigger>startatfire</tabTrigger>
     <scope>source.js</scope>
-    <description>ref w/ specific start</description>
+    <description>limit a ref</description>
 </snippet>
