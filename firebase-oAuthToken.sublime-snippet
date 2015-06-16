@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[${1:ref}.authWithOAuthToken( ${2:provider}, ${3:credentials}, function(error, authData) {
+  if(error) {
+    ${4: /* handle error */}
+  }
+}, ${5:options});]]></content>
+    <tabTrigger>oauthFireToken</tabTrigger>
+    <scope>source.js</scope>
+    <description>Firebase OAuth w/ token</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:ref}.getAuth();]]></content>
+    <tabTrigger>getAuthFire</tabTrigger>
+    <scope>source.js</scope>
+    <description>synchronous auth package</description>
+</snippet>

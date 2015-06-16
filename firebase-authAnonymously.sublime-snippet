@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[${1:ref}.authAnonymously(function(error, authData) {
+  if(error) {
+    ${2: /* handle error */}
+  }
+}, ${3:options});]]></content>
+    <tabTrigger>authFireAnonymously</tabTrigger>
+    <scope>source.js</scope>
+    <description>Custom firebase Auth Token</description>
+</snippet>

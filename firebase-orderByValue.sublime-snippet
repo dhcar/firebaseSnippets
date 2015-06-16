@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:ref}.orderByValue()]]></content>
+    <tabTrigger>orderbyvaluefire</tabTrigger>
+    <scope>source.js</scope>
+    <description>order query by value</description>
+</snippet>

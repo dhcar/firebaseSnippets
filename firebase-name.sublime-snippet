@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[${1:dataRef}.name();]]></content>
+    <content><![CDATA[${1:dataRef}.name(); //.name() is deprecated use .key() instead]]></content>
     <tabTrigger>namefire</tabTrigger>
     <scope>source.js</scope>
     <description>Last token of location</description>

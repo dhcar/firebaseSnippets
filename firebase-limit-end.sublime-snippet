@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[${1:ref}.endAt(${2:/* end point */}).limit(${0:limitNumber});
-]]></content>
+ // endat deprecated use limitToFirst ]]></content>
     <tabTrigger>limitEndfire</tabTrigger>
     <scope>source.js</scope>
     <description>limit w/ end</description>

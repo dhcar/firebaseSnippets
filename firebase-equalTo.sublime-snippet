@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[${1:ref}.equalTo(${2: value} ,${0:key /* optional */});
+ // endat deprecated use limitToFirst ]]></content>
+    <tabTrigger>equaltofire</tabTrigger>
+    <scope>source.js</scope>
+    <description>firebase equalto</description>
+</snippet>

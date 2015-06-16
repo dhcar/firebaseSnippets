@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:ref}.orderByChild( "${2:childName}")]]></content>
+    <tabTrigger>orderbychildfire</tabTrigger>
+    <scope>source.js</scope>
+    <description>order query by child name</description>
+</snippet>

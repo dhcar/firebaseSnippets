@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[${1:ref}.onAuth(function(authData) {
+    ${0: // handle authData }
+}, ${2:context /* optional */});]]></content>
+    <tabTrigger>onauthFire</tabTrigger>
+    <scope>source.js</scope>
+    <description>firebase auth event</description>
+</snippet>

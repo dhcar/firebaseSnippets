@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[${1:ref}.limitToLast(${2:/* max # of nodes to include in query */}));
+]]></content>
+    <tabTrigger>limittolastfire</tabTrigger>
+    <scope>source.js</scope>
+    <description>limit to last x children</description>
+</snippet>

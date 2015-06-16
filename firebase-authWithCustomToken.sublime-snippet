@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[${1:ref}.authWithCustomToken(${2:authToken}, function(error, authData) {
+  if(error) {
+    ${3: /* handle error */}
+  }
+}, ${4:options});]]></content>
+    <tabTrigger>fireAuthCustom</tabTrigger>
+    <scope>source.js</scope>
+    <description>Custom firebase Auth Token</description>
+</snippet>

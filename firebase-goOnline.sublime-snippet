@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Firebase.goOnline();]]></content>
+    <tabTrigger>goonlinefire</tabTrigger>
+    <scope>source.js</scope>
+    <description>manual connect to firebase</description>
+</snippet>

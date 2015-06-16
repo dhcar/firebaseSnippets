@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:dataRef}.key();]]></content>
+    <tabTrigger>keyfire</tabTrigger>
+    <scope>source.js</scope>
+    <description>Last token of location</description>
+</snippet>

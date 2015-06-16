@@ -1,0 +1,26 @@
+<snippet>
+    <content><![CDATA[${1:ref}.changePassword({
+  newEmail: ${2:"bobtony@firebase.com"},
+  oldEmail: ${3:"bobtony@google.com"},
+  Password: ${4:"correcthorsebatterystaple"}
+}, function(error) {
+  if (error) {
+    switch (error.code) {
+      case "INVALID_PASSWORD":
+        console.log("The specified user account password is incorrect.");
+        break;
+      case "INVALID_USER":
+        console.log("The specified user account does not exist.");
+        break;
+      default:
+        console.log("Error creating user:", error);
+    }
+  } else {
+    console.log("User email changed successfully!");
+    ${5: // success}
+  }
+  });]]></content>
+    <tabTrigger>changeemailfire</tabTrigger>
+    <scope>source.js</scope>
+    <description>change email</description>
+</snippet>

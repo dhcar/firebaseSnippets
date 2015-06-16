@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[${1:ref}.limit(${0:limitNumber});]]></content>
+    <content><![CDATA[${1:ref}.limit(${0:limitNumber}); //.limit deprecated use limitToFirst and limitToLast instead ]]></content>
     <tabTrigger>limitfire</tabTrigger>
     <scope>source.js</scope>
     <description>limit a ref</description>

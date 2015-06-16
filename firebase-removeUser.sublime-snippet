@@ -1,0 +1,21 @@
+<snippet>
+    <content><![CDATA[${1:ref}.removeUser(${2:/* credentials */}, function(error) {
+  if (error) {
+    switch (error.code) {
+      case "INVALID_USER":
+        console.log("The specified user account does not exist.");
+        break;
+      case "INVALID_PASSWORD":
+        console.log("The specified user account password is incorrect.");
+        break;
+      default:
+        console.log("Error removing user:", error);
+    }
+  } else {
+    console.log("User account deleted successfully!");
+    ${3: //success }
+  });]]></content>
+    <tabTrigger>removeuserfire</tabTrigger>
+    <scope>source.js</scope>
+    <description>remove user</description>
+</snippet>

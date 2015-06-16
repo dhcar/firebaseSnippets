@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[${1:ref}.authWithOAuthRedirect( ${2:provider}, function(error, authData) {
+  if(error) {
+    ${3: /* handle error */}
+  }
+}, ${4:options});]]></content>
+    <tabTrigger>oauthFireRedirect</tabTrigger>
+    <scope>source.js</scope>
+    <description>Firebase OAuth redirect</description>
+</snippet>
